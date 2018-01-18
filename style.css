@@ -1,0 +1,130 @@
+.container{
+	width: 1000px;
+	height: 1250px;
+	margin: auto;
+	background-color: #fff;
+	border: 2px solid #000;
+}
+.header{
+	width: 1000px;
+	height: 300px;
+	margin: auto;
+	background-color: #4286f4;
+}
+.header img{
+	width: 998px;
+	height: 300px;
+	margin: auto;
+	border: 2px solid #000;
+}
+.lingkar{
+	width: 150px;
+	height: 150px;
+	border-radius: 150px;
+	margin:auto;
+	margin-top: -220px;
+}
+.lingkar img{ 
+	width: 150px;
+	height: 150px;
+	border-radius: 150px;
+	
+}
+.about{
+	width: 1000px;
+	height: 400px;
+	background-color: #fff;
+
+}
+.judul{
+	width: 130px;
+	height: 50px;
+	background-color: #fff;
+	margin: auto;
+	margin-top: -20px;
+	border: 2px solid #000;
+	border-radius: 20px;
+}
+.judul h2{
+	text-align: center;
+	padding-top: 3px;
+}
+.judul p{
+	text-align: center;
+	padding: 10px 20px;
+	margin-left: 10px; 
+}
+/*================*/
+.contact{
+	width: 980px;
+	height: 500px;
+	background-color: #fff;
+	border: 2px solid #000;
+	margin: auto;
+
+}
+.kiri{
+	width: 460px;
+	height: 470px;
+	background-color: #fff;
+	border: 1px solid #000;
+	float: left;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+.kiri form{
+	margin-left: 70px;
+	margin-top: 50px;
+}
+.kiri form input{
+	width: 300px;
+	height: 30px;
+	margin-top: 20px;
+	font-size: 14px;
+}
+.kiri form textarea{
+	margin-top: 20px;
+	width: 300px;
+	height: 150px;
+	font-size: 14px;
+}
+.kiri form button{
+
+}
+.kanan{
+	width: 460px;
+	height: 470px;
+	background-color: #fff;
+	border: 1px solid #000;
+	float: left;
+	margin-top: -472px;
+	margin-left: 500px;
+}
+.bulat{
+	width: 150px;
+	height: 150px;
+	border-radius: 150px;
+	background-color: #000;
+	margin:auto;
+	margin-top: 20px;
+}
+.kanan ul{
+	margin-left: -40px;
+}
+.kanan ul li{
+	size: 14px;
+	text-align: center;
+	margin-top: 20px;
+	padding: 1px;
+	display: inherit;
+}
+/*====================*/
+.footer{
+	width: 980px;;
+	height: 300px
+	border: 2px solid #000;
+	margin-top: 10px;
+}
+.footer h3{
+	text-align: center;
+}
